@@ -26,6 +26,10 @@ AI Solution Architect specializing in rapid prototyping, RAG systems, and agenti
 
 ## Projects
 
+**[google-ai-mode-mcp](https://github.com/PleasePrompto/google-ai-mode-mcp)** — MCP server connecting code agents to Google's AI Mode for free, token-efficient web research with AI-synthesized answers and source citations.
+
+**[google-ai-mode-skill](https://github.com/PleasePrompto/google-ai-mode-skill)** — Claude Code skill for querying Google AI Mode directly—source-grounded web research with inline citations and minimal token usage.
+
 **[notebooklm-mcp](https://github.com/PleasePrompto/notebooklm-mcp)** — MCP server enabling AI agents to research documentation through NotebookLM with persistent authentication and citation-backed answers.
 
 **[notebooklm-skill](https://github.com/PleasePrompto/notebooklm-skill)** — Claude Code skill for direct NotebookLM integration with browser automation and source-grounded responses.
